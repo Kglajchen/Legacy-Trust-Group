@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 100" role="img" aria-label="Legacy Trust Group">
+  <g transform="translate(8, 14)">
+    <rect x="28" y="0"  width="20" height="11" rx="2.5" fill="#e8eef6"/>
+    <rect x="21" y="14" width="34" height="11" rx="2.5" fill="#c5d4e8"/>
+    <rect x="14" y="28" width="48" height="11" rx="2.5" fill="#8fa8cf"/>
+    <rect x="7"  y="42" width="62" height="11" rx="2.5" fill="#e0c788"/>
+    <rect x="0"  y="56" width="76" height="11" rx="2.5" fill="#e8c56a"/>
+  </g>
+  <text x="102" y="58" font-family="Georgia, 'Times New Roman', Times, serif" font-size="26" font-weight="500" fill="#F7F3EA" letter-spacing="-0.4">Legacy Trust Group</text>
+</svg>
